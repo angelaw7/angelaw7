@@ -6,7 +6,7 @@
 
 <div align="center" >
   <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=angelaw7&show_icons=true&theme=jolly" />
+    <img src="https://github-readme-stats.vercel.app/api?username=angelaw7&show_icons=true&theme=buefy" />
   </a>
   </br>
   <a href="https://angelaw7.github.io" target="_blank" ref="noreferral">
@@ -69,6 +69,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-  <a href="https://angelaw7.github.io" target="_blank" ref="noreferral"><img src="https://user-images.githubusercontent.com/74735037/131207009-dc1332ea-8944-47dc-b612-1a151eaa0d6e.png" width="30" height="30"></a>
 -->
