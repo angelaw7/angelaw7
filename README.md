@@ -1,14 +1,17 @@
 <h1 align="center">Hello! I'm Angela :octocat:</h1>
 
 ## 📖 About Me
-- 🎓Studying Software & Biomedical Engineering at McMaster University
-- ⭐Interested in Machine Learning, Computer Vision, and Embedded Systems
+- 🎓Studying software & biomedical engineering at McMaster University
+- ⭐Interested in machine learning, embedded systems, and biotechnology
+- 💼Currently open to Summer 2022 internship opportunities!
 
 <div align="center" >
   <a>
     <img src="https://github-readme-stats.vercel.app/api?username=angelaw7&show_icons=true&theme=buefy" />
   </a>
   </br>
+  </br>
+  <p>Visit my website here: </p>
   <a href="https://angelaw7.github.io" target="_blank" ref="noreferral">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
