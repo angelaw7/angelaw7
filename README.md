@@ -3,7 +3,7 @@
 ## 📖 About Me
 - 🎓Studying software & biomedical engineering at McMaster University
 - ⭐Interested in machine learning, embedded systems, and biotechnology
-- 💼Currently open to Summer 2022 internship opportunities!
+
 
 <div align="center" >
   <a>
